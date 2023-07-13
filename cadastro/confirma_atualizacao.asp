@@ -1,17 +1,8 @@
 <html>
 <head>
-<title>Confirmação</title>
+<title>Confirmaï¿½ï¿½o</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 </head>
-<%
-'   ******************** WWW.COMERCIALWEB.COM.BR *********************
-'   *   Este sistema foi desenvolvido por: www.comercialweb.com.br   *
-'   *   desenvolvimentos loja virtual dominio e hospedagem.          *
-'   *   E-mail comercial@comercialweb.com.br                         *
-'   *   caso tenha alguma dúvida leia o arquivo configuração.txt     *
-' 	*   ou envie um E-mail: yy200@ig.com.br  a/c Luciano             *
-'   ******************************************************************
-%>
 
 <body bgcolor="#FFFFFF" text="#000000">
 <div align="center">

@@ -1,21 +1,4 @@
-<%
-'   ******************** WWW.COMERCIALWEB.COM.BR *********************
-'   *   Este sistema foi desenvolvido por: www.comercialweb.com.br   *
-'   *   desenvolvimentos loja virtual dominio e hospedagem.          *
-'   *   E-mail comercial@comercialweb.com.br                         *
-'   *   ou envie um E-mail: yy200@ig.com.br  a/c Luciano             *
-'   ******************************************************************
 
-**********( ATENÇÃO NÃO ALTERE OS CREDITOS )***********
-%>
-
-
-
-Se  vc tiver alguma dúvida
-envie um E-mail para yy200@ig.com.br
-
-Obs.Desenvolvo Scripts sob encomenda, chat, mural, Mailing, autenticações, sistemas login e senhas entre outros.
-yy200@ig.com.br
 
 
 

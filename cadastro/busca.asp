@@ -1,13 +1,6 @@
 <%
 Response.Cookies("dado") = Request.Form("dado")
 response.cookies("dado").expires = "6/25/03"
-'   ******************** WWW.COMERCIALWEB.COM.BR *********************
-'   *   Este sistema foi desenvolvido por: www.comercialweb.com.br   *
-'   *   desenvolvimentos loja virtual dominio e hospedagem.          *
-'   *   E-mail comercial@comercialweb.com.br                         *
-'   *   caso tenha alguma dúvida leia o arquivo configuração.txt     *
-' 	*   ou envie um E-mail: yy200@ig.com.br  a/c Luciano             *
-'   ******************************************************************
 
 
 %><html>

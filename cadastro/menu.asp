@@ -3,15 +3,6 @@
 <title>Untitled Document</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 </head>
-<%
-'   ******************** WWW.COMERCIALWEB.COM.BR *********************
-'   *   Este sistema foi desenvolvido por: www.comercialweb.com.br   *
-'   *   desenvolvimentos loja virtual dominio e hospedagem.          *
-'   *   E-mail comercial@comercialweb.com.br                         *
-'   *   caso tenha alguma dúvida leia o arquivo configuração.txt     *
-' 	*   ou envie um E-mail: yy200@ig.com.br  a/c Luciano             *
-'   ******************************************************************
-%>
 
 <body bgcolor="#6666FF" text="#000000" link="#FFFFFF" vlink="#FFFFFF" alink="#FFFFFF">
 <table width="100%" border="1" cellspacing="0" bordercolor="#000099">
