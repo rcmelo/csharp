@@ -1,19 +1,4 @@
-<%
-'**************************************************************
-'*   ATENÇÃO NÃO REMOVA E NEM ALTERE ESTAS LINHAS             *
-'* Desenvolvido por www.comercialweb.com.br					  *
-'* desenvolvimento e Hospedagem								  *
-'* E-mail: comercial@comercialweb.com.br					  *
-'* em caso de dúvidas envie um E-mail para:					  *
-'* Luciano Ruggero											  * 
-'* Analista de Internet										  *
-'* E-mail: yy200@ig.com.br									  *
-'* Desenvolvo Script´s sob encomenda       					  *
-'* Loja virtual , Mural , Autenticação , Bate Papo , Forum    *
-'* Cadastro de clientes , Contadores entre outros...          *
-'**************************************************************
-%>
-<!-- Começa Aqui -->
+<!-- ComeÃ§a Aqui -->
 <script language="JavaScript">
 function protegercodigo() {
 if (event.button==2||event.button==3) {
