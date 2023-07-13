@@ -1,13 +1,5 @@
 <%@LANGUAGE="VBSCRIPT"%>
 <!--#include file="Connections/cadastro.asp" -->
-<%
-'   ******************** WWW.COMERCIALWEB.COM.BR *********************
-'   *   Este sistema foi desenvolvido por: www.comercialweb.com.br   *
-'   *   desenvolvimentos loja virtual dominio e hospedagem.          *
-'   *   E-mail comercial@comercialweb.com.br                         *
-'   *   caso tenha alguma dúvida leia o arquivo configuração.txt     *
-' 	*   ou envie um E-mail: yy200@ig.com.br  a/c Luciano             *
-'   ******************************************************************
 
 'Declara variaveis
 MM_editAction = CStr(Request("URL"))
@@ -82,7 +74,7 @@ Recordset1_numRows = 0
 <%
 response.buffer = "true"
 
-'Abre a conexão com o banco de dados
+'Abre a conexÃ£o com o banco de dados
 	Set Conexao = Server.CreateObject("ADODB.Connection")
 dbPath = "DBQ=" & Server.Mappath("dados/cadastro.mdb")
 Conexao.Open "DRIVER={Microsoft Access Driver (*.mdb)};" & dbPath
@@ -98,10 +90,10 @@ Dim Repeat1__index
 Repeat1__index = 0
 Recordset1_numRows = Recordset1_numRows + Repeat1__numRows
 
-'Senão encontrar nenhum registro '
+'SenÃ£o encontrar nenhum registro '
 
 	if Recordset1.eof then
-		response.write "<p>&nbsp;<p><center><font face='Verdana, Arial, Helvetica, sans-serif' size='3'><b>Nenhum cadastro encontrado<br> com estas características. <p><a href='javascript:history.back(1)'>voltar</a></b></font></center>"
+		response.write "<p>&nbsp;<p><center><font face='Verdana, Arial, Helvetica, sans-serif' size='3'><b>Nenhum cadastro encontrado<br> com estas caracterÃ­sticas. <p><a href='javascript:history.back(1)'>voltar</a></b></font></center>"
 
 
 		
@@ -170,7 +162,7 @@ While ((Repeat1__numRows <> 0) AND (NOT Recordset1.EOF))
   Recordset1.MoveNext()
 Wend
 %>
-<!--Fecha a conexão -->
+<!--Fecha a conexÃ£o -->
   <%end if %>
   <%
 Recordset1.Close()
