@@ -1,0 +1,8 @@
+C:\Users\renan\source\repos\LeitorXTR\obj\Debug\LeitorXTR.csproj.AssemblyReference.cache
+C:\Users\renan\source\repos\LeitorXTR\obj\Debug\LeitorXTR.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\source\repos\LeitorXTR\obj\Debug\XmlNfeLerCsharp.Form1.resources
+C:\Users\renan\source\repos\LeitorXTR\obj\Debug\XmlNfeLerCsharp.Properties.Resources.resources
+C:\Users\renan\source\repos\LeitorXTR\obj\Debug\LeitorXTR.csproj.GenerateResource.cache
+C:\Users\renan\source\repos\LeitorXTR\obj\Debug\LeitorXTR.csproj.CoreCompileInputs.cache
+C:\Users\renan\source\repos\LeitorXTR\obj\Debug\XmlNfeLerCsharp.exe
+C:\Users\renan\source\repos\LeitorXTR\obj\Debug\XmlNfeLerCsharp.pdb

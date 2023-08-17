@@ -1,0 +1,11 @@
+C:\Users\renan\source\repos\XmlNfeLerCsharp\bin\Debug\XmlNfeLerCsharp.exe.config
+C:\Users\renan\source\repos\XmlNfeLerCsharp\bin\Debug\XmlNfeLerCsharp.exe
+C:\Users\renan\source\repos\XmlNfeLerCsharp\bin\Debug\XmlNfeLerCsharp.pdb
+C:\Users\renan\source\repos\XmlNfeLerCsharp\obj\Debug\XmlNfeLerCsharp.csproj.AssemblyReference.cache
+C:\Users\renan\source\repos\XmlNfeLerCsharp\obj\Debug\XmlNfeLerCsharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\source\repos\XmlNfeLerCsharp\obj\Debug\XmlNfeLerCsharp.Form1.resources
+C:\Users\renan\source\repos\XmlNfeLerCsharp\obj\Debug\XmlNfeLerCsharp.Properties.Resources.resources
+C:\Users\renan\source\repos\XmlNfeLerCsharp\obj\Debug\XmlNfeLerCsharp.csproj.GenerateResource.cache
+C:\Users\renan\source\repos\XmlNfeLerCsharp\obj\Debug\XmlNfeLerCsharp.csproj.CoreCompileInputs.cache
+C:\Users\renan\source\repos\XmlNfeLerCsharp\obj\Debug\XmlNfeLerCsharp.exe
+C:\Users\renan\source\repos\XmlNfeLerCsharp\obj\Debug\XmlNfeLerCsharp.pdb
